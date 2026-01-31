@@ -39,7 +39,7 @@
     "ACTIVEAURAS.FORM_ActivateOnce": "每回合僅觸發一次光環",
     "ACTIVEAURAS.FORM_Wildcard": "套用於通配符棋子",
     "ACTIVEAURAS.FORM_Extra": "套用於額外棋子",
-    "ACTIVEAURAS.FORM_Temporary": "將主動效果圖示套用於受影響的棋子"
+    "ACTIVEAURAS.FORM_Temporary": "將主動效果圖示套用於受影響的棋子",
 
     "ACTIVEAURAS.ApplyLog": "ActiveAuras |將 '{effectDataName}' 應用於 {tokenName} ",
     "ACTIVEAURAS.RemoveLog": "ActiveAuras |已從 {tokenName} 中刪除 '{effectDataName}' ",
