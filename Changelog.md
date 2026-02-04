@@ -1,3 +1,10 @@
+# 0.12.5
+
+- fix zh-tw lang typo by zeteticl
+- it update by GregoryWarn
+GregoryWarn
+- add cs translation by Lethrendis
+
 # 0.12.4
 
 - Template auras applied from features would fail to apply in new 5e versions due to duration moving to activities.
