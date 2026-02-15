@@ -1,3 +1,7 @@
+# 0.12.6
+
+- zh-tw language updates by zeteticl
+
 # 0.12.5
 
 - fix zh-tw lang typo by zeteticl
