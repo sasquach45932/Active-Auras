@@ -283,6 +283,12 @@ export class AAHelpers {
         // dead
         else return false;
       }
+      case "demonlord": {
+        const { max, value } = document.system.characteristics.health
+        if ((value) >= max) return true;
+        // dead
+        else return false;
+      }
     }
   }
 
